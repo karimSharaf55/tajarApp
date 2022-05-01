@@ -1,0 +1,23 @@
+.ant-modal {
+    width: 80% !important;
+    height: 600px !important;
+}
+
+.Quiq-View-Modal .singleshop_detailes-title h3 {
+    font-size: 25px;
+    
+}
+
+.Quiq-View-Modal span.singleshop-wasprice , .Quiq-View-Modal span.singleshop-mainprice {
+    font-size: 30px;
+  
+}
+
+.Quiq-View-Modal .single-shop-border , .Quiq-View-Modal .FeaturesDeal-item {
+    border: 0;
+   
+}
+
+.ant-modal-body{
+    padding:0 !important;
+}

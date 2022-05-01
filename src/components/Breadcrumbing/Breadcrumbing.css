@@ -1,0 +1,28 @@
+.breadcrumbing {
+    text-align: left;
+    margin-top: 0;
+    padding: 0;
+    margin-bottom: 15px;
+}
+
+.breadcrumbing i {
+    color: #f89b20;
+    font-size: 18px !IMPORTANT;
+}
+
+.breadcrumbing  a.ant-breadcrumb-link {
+    color: rgba(48, 48, 48, 0.4);
+    font-size: 12px;
+}
+
+
+.breadcrumbing  span.ant-breadcrumb-link {
+    color: rgba(64, 64, 64, 0.8);
+    font-weight: bold;
+    font-size: 12px;
+}
+.breadcrumbing .ant-breadcrumb-separator {
+    margin: 0 4px;
+    color: #454545ad;
+  
+}

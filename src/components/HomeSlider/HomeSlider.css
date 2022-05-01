@@ -1,0 +1,129 @@
+.Homeslider-caption {
+   
+    text-align: left;
+   
+    position: absolute;
+    top: 50%;
+    left: 63%;
+    -webkit-transform: translate(-50%);
+    -ms-transform: translate(-50%);
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+
+.Homeslider-caption h3 {
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #f89b20;
+    font-weight: 900;
+    margin: 0;
+    margin-bottom: 0;
+}
+.Homeslider-caption h4 {
+    color: #959595;
+    text-transform: uppercase;
+    margin-top: 7px;
+    font-weight: 900;
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+.Homeslider-caption p {
+    font-size: 14px;
+    color: #959595;
+    line-height: normal;
+    margin-bottom: 12px;
+}
+span.secondrycolor {
+    color: #9e2420;
+}
+
+.Homeslider-caption h5 {
+    font-weight: 900;
+    font-size: 18px;
+    color: #f89b20;
+    text-transform: uppercase;
+
+}
+
+
+.carousel .control-next.control-arrow:before {
+    border-left: 0 !important;
+    background: url("../../img/right-border.svg");
+    width: 60px;
+    height: 60px;
+    background-size: contain;
+    border: 0 !important;
+    background-repeat: no-repeat;
+
+}
+
+
+
+.carousel .control-prev.control-arrow:before{
+    border-right: 0 !important;
+    background: url("../../img/right-border.svg");
+    width: 60px;
+    height: 60px;
+    background-size: contain;
+    border: 0 !important;
+    background-repeat: no-repeat;
+    transform: rotate(180deg);
+
+}
+
+.carousel.carousel-slider .control-arrow:hover {
+    background: transparent !important;
+}
+
+.Homeslider-caption button {
+    width: 67px;
+    height: 32px;
+    border-radius: 3px;
+    background-color: #f89b20;
+    border: 0;
+    font-size: 16px;
+    font-weight: 900;
+    text-transform: uppercase;
+    padding-right: 12px;
+}
+
+.Homeslider-caption a {
+    font-size: 16px;
+    font-weight: 900;
+    color: #9e2420;
+    text-transform: uppercase;
+}
+
+
+
+
+.HomeSlider li.dot.selected {
+    background: #f89b20 !important;
+    border-radius: 6px;
+    width: 26px !important;
+    height: 12px !important;
+    border-radius: 6px !important;
+    padding: 0 !important;
+    margin: 0px 10px;
+}
+
+.HomeSlider .carousel .control-dots .dot {
+    width: 12px;
+    height: 12px;
+    opacity: 1;
+    background: #edebeb;
+    box-shadow: none;
+}
+
+
+
+.HomeSlider .carousel .control-dots {
+    position: inherit;
+
+}
+
+
+.HomeSlider .carousel.carousel-slider .control-arrow:hover {
+    background: transparent;
+}

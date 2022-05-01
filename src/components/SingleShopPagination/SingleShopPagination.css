@@ -1,0 +1,43 @@
+.singleshop-pagination a.ant-pagination-item-link {
+    border: none !important;
+    color: #787878;
+}
+
+.singleshop-pagination .ant-pagination-item-active {
+    background: #f89b20;
+    border: 0;
+    border-radius: 50px;
+}
+
+.singleshop-pagination .ant-pagination-item-active a{
+color: #fff;
+font-size: 13px;
+font-weight: bold;
+}
+
+.singleshop-pagination .ant-pagination-item {
+    border: solid 1px #ededed;
+    border-radius: 50px;
+    color: #787878;
+    margin-right: 23px;
+
+}
+
+.singleshop-pagination .ant-pagination-item:focus a, .singleshop-pagination .ant-pagination-item:hover a {
+    color: #fff !important;
+    font-weight: 900;
+    text-decoration: none;
+}
+
+.singleshop-pagination .ant-pagination-item-active a:hover{
+    color: #1890ff
+    !important;
+
+    }
+    .singleshop-pagination .ant-pagination-item:hover{
+        background: #f89b20;
+
+    }
+ 
+
+ 

@@ -1,0 +1,101 @@
+.bm-burger-button {
+    position: absolute;
+    width: 31px;
+    height: 26px;
+    left: 0;
+    top: 14px;
+}
+  /* Color/shape of burger icon bars */
+  .bm-burger-bars {
+    background: #9e2420;
+  }
+  
+  /* Color/shape of burger icon bars on hover*/
+  .bm-burger-bars-hover {
+    background: #a90000;
+  }
+  
+  /* Position and sizing of clickable cross button */
+  .bm-cross-button {
+    height: 24px;
+    width: 24px;
+  }
+  
+  /* Color/shape of close button cross */
+  .bm-cross {
+    background: #bdc3c7;
+  }
+  
+  /*
+  Sidebar wrapper styles
+  Note: Beware of modifying this element as it can break the animations - you should not need to touch it in most cases
+  */
+  .bm-menu-wrap {
+    position: fixed !important;
+    height: 100%;
+  }
+  .bm-menu-wrap {
+    left: 0;
+    top:0;
+    width: 80% !important;
+    z-index: 999999999999 !important;
+    position: relative;
+}
+  
+  
+  /* General sidebar styles */
+  .bm-menu {
+    background: #f89b20ed;
+    
+    padding: 2.5em 1.5em 0;
+    font-size: 1.15em;
+  }
+  
+  /* Morph shape necessary with bubble or elastic */
+  .bm-morph-shape {
+    fill: #9e2420;
+  }
+  
+  /* Wrapper for item list */
+  .bm-item-list {
+    color: #b8b7ad;
+    padding: 0.8em;
+  }
+  
+  /* Individual item */
+  .bm-item {
+    display: inline-block;
+  }
+  
+  /* Styling of overlay */
+  .bm-overlay {
+    background: rgba(0, 0, 0, 0.3);
+  }
+
+  
+
+  .MobileMenu {
+    text-align: left;
+    line-height: 36px;
+    font-size: 16px;
+}
+
+a#home {
+    color: #fff;
+}
+.MobileMenu i {
+    margin-right: 14px;
+    font-size: 21px;
+    color: #ffffff;
+}
+
+.bm-item-list {
+    color: #b8b7ad;
+    padding: 0;
+}
+
+a#home {
+    color: #fff;
+    font-size: 22px;
+    margin-bottom: 13px;
+}

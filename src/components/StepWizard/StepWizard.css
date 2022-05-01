@@ -1,0 +1,25 @@
+.stepwizard .ant-steps-item-wait .ant-steps-item-icon > .ant-steps-icon {
+    color: #f89b20;
+    font-size: 35px !important;
+}
+
+
+
+ .stepwizard .ant-steps-item-title{
+    color: #f89b20 !important;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 12px;
+}
+
+.stepwizard .ant-steps-item-icon i {
+    color: #f89b20;
+}
+
+.stepwizard .ant-steps-item-finish > .ant-steps-item-content > .ant-steps-item-title::after {
+    background-color: #f89b20;
+}
+
+.stepwizard {
+    margin: 20px 0;
+}

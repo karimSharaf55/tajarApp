@@ -1,0 +1,119 @@
+.mainnavbar-menu {
+    top: 0 !important;
+    left: 171px !important;
+}
+.mainnavbar-menu ul {
+    border-radius: 0 !important;
+    padding: 21px !important;
+    min-width: 723px !important;
+    overflow: hidden;
+    background-color: #fafafa !important;
+    top: 0 !important;
+    height: 440px !important;
+}
+
+.MainNavbar .ant-menu-horizontal > .ant-menu-item, .ant-menu-horizontal > .ant-menu-submenu {
+ 
+    float: left;
+}
+.MainNavbar ul.ant-menu.ant-menu-light.ant-menu-root.ant-menu-horizontal {
+    border: 1px solid #a7a9ac;
+    height: 45px;
+    border-radius: 5px;
+    font-weight: 900;
+    /* opacity: 0.8; */
+    color: #828080;
+}
+.MainNavbar .ant-menu-horizontal a, .ant-menu-submenu-title {
+    font-weight: bold;
+    opacity: 0.8;
+}
+
+.MainNavbar-location img {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+    /* float: left; */
+}
+
+.MainNavbar a.ant-dropdown-link.ant-dropdown-trigger {
+    color: rgba(137, 137, 137, 0.8);
+    text-transform: capitalize;
+    font-size: 13px;
+    float: right;
+    margin-right: 28px;
+    text-align: left;
+}
+
+.MainNavbar-location p{
+    color: rgba(0, 0, 0, 0.8);
+    font-weight: bold;
+    opacity: 0.8;
+}
+
+/* .MainNavbar li.ant-menu-submenu.ant-menu-submenu-horizontal {
+    top: -8px;
+} */
+
+span.mainnavbar-shopby P {
+    color: rgba(0, 0, 0, 0.8);
+    /* margin: -38px; */
+    font-size: 12px;
+    /* text-indent: 31px; */
+    font-weight: bold;
+    opacity: 0.8;
+    position: relative;
+    bottom: 36px;
+    text-indent: 22px;
+    font-weight: 900;
+    line-height: 49px;
+}
+span.mainnavbar-shopby a {
+    color: rgba(137, 137, 137, 0.8);
+    font-size: 12px;
+    opacity: 0.8;
+    position: relative;
+    bottom: 11px;
+    margin: 0;
+}   
+
+.MainNavbar i.fa.fa-bars {
+    color: #171717;
+    font-size: 25px;
+    margin-right: 5px;
+    /* background: red; */
+    margin-left: -11px;
+    margin-top: 11px;
+}
+.MainNavbar .ant-menu-submenu-title {
+    height: 41px;
+}
+
+
+
+
+.ant-menu-horizontal > .ant-menu-item:hover, .ant-menu-horizontal > .ant-menu-submenu:hover, .ant-menu-horizontal > .ant-menu-item-active, .ant-menu-horizontal > .ant-menu-submenu-active, .ant-menu-horizontal > .ant-menu-item-open, .ant-menu-horizontal > .ant-menu-submenu-open, .ant-menu-horizontal > .ant-menu-item-selected, .ant-menu-horizontal > .ant-menu-submenu-selected {
+  border-bottom:2px solid transparent !important;
+
+}  
+
+
+.MainNavbar .ant-menu-horizontal > .ant-menu-item > a:hover , .MainNavbar li.ant-menu-item a:hover ,li.ant-menu-item.mainli:hover {
+    color: #f89c1a;
+    
+    transition: 0.6s !important;
+    border-bottom: 0 !important;
+    text-decoration: none !important;
+}
+
+.MainNavbar {
+    background: #fafafa;
+}
+
+li.ant-menu-item.mainli {
+    padding: 0;
+}
+
+ul.Main-navbar.footer-menu li a {
+    color: #535252;
+}

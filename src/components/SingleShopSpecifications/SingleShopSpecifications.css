@@ -1,0 +1,311 @@
+ul.ShopSpecifications-list li {
+    font-family: Lato;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 16px;
+    margin-top: 16px;
+    /* border-bottom: 1px solid red; */
+    text-transform: uppercase;
+    color: #000000;
+}
+
+ul.ShopSpecifications-list {
+    padding: 0;
+    list-style: none;
+    text-align: left;
+}
+
+ul.ShopSpecifications-list button.primary {
+    background: #f89b20;
+    font-family: Lato;
+    font-size: 12px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.08;
+    letter-spacing: normal;
+    color: #fff;
+    border-radius: 5px;
+    border: 0;
+    text-transform: uppercase;
+    margin-left: 7px;
+}
+
+ul.ShopSpecifications-list.greay-background {
+    background: #f8f7f7;
+    padding: 0 12px;
+
+}
+
+
+ul.ShopSpecifications-list.white-background {
+    background: #fff;
+    padding: 0 12px;
+
+}
+ul.ShopSpecifications-list li:after {
+    content: "";
+    background: #ebebeb;
+    width: 100%;
+    height: 1px;
+    position: absolute;
+    left: 0;
+    margin-top: 27px;
+}
+
+ul.ShopSpecifications-list.white-background li {
+    font-family: Lato;
+    font-size: 13px;
+    font-weight: normal;
+    /* font-style: normal; */
+    font-stretch: normal;
+    /* line-height: 3; */
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+    text-transform: initial;
+}
+
+.ant-tabs-nav .ant-tabs-tab-active  ,.ant-tabs-nav .ant-tabs-tab-active:hover {
+    /* color: red; */
+    font-size: 18px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    /* line-height: 3.33; */
+    letter-spacing: normal;
+    text-align: center;
+    color: #b46664;
+    text-transform: uppercase;
+    text-align: left;
+}
+
+.ant-tabs-nav {
+
+    width: 100%;
+}
+
+.ant-tabs-nav .ant-tabs-tab {
+
+    float: left;
+}
+
+
+.ant-tabs-tab {
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 900;
+    font-style: normal;
+    /* opacity: 0.2; */
+    color: rgba(0, 0, 0, 0.2);
+}
+
+
+.singleshop_reviewtab p{
+    display: inline-block;
+    font-size: 14px;
+  font-weight: bold;
+}
+
+.singleshop_connect i {
+    color: #b2b2b2;
+    margin-left: 3px;
+    margin-right: 4px;
+    width: 25px;
+    height: 25px;
+    border: 1px solid #b2b2b2;
+    border-radius: 50px;
+    line-height: 26px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.singleshop_connect{
+    display: inline-block;
+}
+
+span.your-rate {
+    margin-left: 58px;
+}
+
+.singleshop_reviewtab  .dv-star-rating {
+    margin: -10px 6px;
+}
+
+
+
+.singleshop_reviewform input.ant-input {
+    width: 50%;
+    float: left;
+    margin-bottom: 9px;
+    margin-top: 14px;
+    border-radius: 5px;
+    border: solid 1px #f5f4f4;
+    background-color: #ffffff;
+}
+
+.singleshop_reviewtab h3 {
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 900;
+    margin-bottom: 30px;
+    margin-top: 28px;
+}
+
+.singleshop_reviewform button.ant-btn.ant-btn-primary {
+    margin-top: 16px;
+    font-weight: 900;
+    text-transform: uppercase;
+    /* padding: 10px 0; */
+    height: 42px;
+    border-radius: 5px;
+}
+.singleshop_reviewform  textarea.ant-input {
+    padding: 20px 16px;
+    border-radius: 5px;
+    border: solid 1px #f5f4f4;
+    background-color: #ffffff;
+  
+}
+
+.singleshop_reviewtab-holder {
+    background: #faf9f9;
+    /* clear: both; */
+    padding: 20px 0;
+
+}
+
+.singleshop__review-users img {
+    width: 74px;
+    height: 74px;
+    border-radius: 50px;
+    line-height: 100px;
+    object-fit: cover;
+    background: #ededed;
+}
+
+.singleshop__review-users{
+    padding: 12px 0;
+    margin-bottom: 17px;
+}
+
+.SingleShopReview{
+    margin: 36px 0;
+
+}
+
+
+.singleshop__review-users-left {
+    float: left;
+    text-align: left;
+}
+
+.singleshop__review-users-right {
+    text-align: right;
+}
+
+.singleshop__review-users-right p {
+    text-align: left;
+    font-size: 16px;
+    line-height: 1.38;
+    letter-spacing: normal;
+    color: #787878;
+    margin-top: 9px;
+}
+
+span.singleshop__review-users-name em {
+    background: #f89b20;
+    width: 6px;
+    height: 6px;
+    position: absolute;
+    margin-top: 11px;
+    border-radius: 50px;
+    margin-left: 5px;
+}
+span.singleshop__review-users-name {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: bold;
+    color: #404040;
+    margin-right: 17px;
+}
+
+span.singleshop__review-users-date {
+    color: #b3b3b3;
+    font-size: 13px;
+    margin-left: 1px;
+}
+
+.singleshop__review-users button.ant-btn.ant-btn-deafult {
+    border: 1px solid #cfcfcf;
+    font-size: 14px;
+    color: #a7a9ac;
+    border-radius: 5px;
+    margin-left: 17px;
+}
+
+.singleshop__review-users .dv-star-rating.dv-star-rating-non-editable {
+    line-height: 1px;
+    font-size: 13px;
+}
+
+.singleshop-border .ant-tabs-ink-bar.ant-tabs-ink-bar-animated{
+    display: none !important;
+}
+
+
+
+.ShopSpecifications-list.single__product-deatils button.primary {
+    text-transform: uppercase;
+    background: #f89b20;
+    color: #fff;
+    border-radius: 3px;
+    border: 0;
+    font-size: 12px;
+    font-weight: 900;
+    margin-left: 10px;
+}
+
+.ShopSpecifications-list.single__product-deatils {
+    text-align: left;
+    padding: 12px;
+    width: 50%;
+}
+
+.ShopSpecifications-list.single__product-deatils a {
+    color: #3497f7;
+    font-weight: 900;
+    font-size: 13px;
+}
+
+p.single__product-many-review em {
+    color: #3497f7;
+    font-style: normal;
+    font-weight: 900;
+    margin-left: 10px;
+}
+p.single__product-many-review i {
+    color: #fedf01 !important;
+}
+
+p.single__product-many-review  .dv-star-rating.dv-star-rating-non-editable {
+    line-height: 3px;
+    margin-left: 5px;
+    color:#ebebeb;
+}
+
+.singleshopspecfic .ant-tabs-nav .ant-tabs-tab:nth-child(2) {
+    float: right ;
+}
+
+.singleshopspecfic .ant-tabs-nav .ant-tabs-tab:last-child {
+    margin-right: 0;
+    float: right;
+}
+
+.singleshopspecfic {
+    margin: 20px 0;
+}
+.singleshopspecfic .ant-tabs-nav .ant-tabs-tab:hover {
+    color: #9e231f;
+}

@@ -1,0 +1,132 @@
+ul.account-setting {
+    list-style: none;
+    padding-left: 0;
+}
+ul.account-setting li {
+    border: 1px solid #f2f2f2;
+    margin-bottom: 8px;
+    text-align: left;
+    width: 237px;
+    height: 41px;
+    font-size: 13px;
+    font-weight: 900;
+    padding: 10px 12px;
+    border-radius: 6px;
+    box-shadow: 0 0 1px 0px #00000021;
+}
+ul.account-setting li a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.67);
+    font-weight: bold;
+}
+ul.account-setting li i.fa.fa-angle-right {
+    float: right;
+}
+.account-setting-holder h2 {
+    font-size: 14px;
+    margin-bottom: 17px;
+
+    font-weight: bold;
+    text-align: left;
+    color: #9e2420;
+    margin-left: 10px;
+}
+.account-setting-holder button.ant-btn.submit.ant-btn-signin {
+    width: 237px;
+    height: 41px;
+    float: left;
+    margin: 0;
+}
+
+.account-setting-holder {
+    margin: 0;
+    padding: 19px 14px 54px;
+    position: relative;
+    border:1px solid #d7d7d7;
+    box-shadow: 0 0 1px 0px #00000021;
+    border-radius: 6px;
+    margin-top: 26px;
+}
+
+.user-profail .TrendingProducts-item {
+    border: solid 1px #cccccc;
+    padding-bottom: 31px;
+    border-radius: 4px;
+    margin-bottom: 13px;
+}
+h2.your-Account {
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 10px;
+    color: #000000;
+    margin-bottom: 18px;
+}
+.TrendingProducts__item-description {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   
+    align-items: center;
+    min-height: 143px !important;
+
+    border-right: 1px solid #cccccc;
+}
+
+.user-profail TrendingProducts__item-image {
+    float: left;
+    border-right: 1px solid #cccccc;
+    object-fit: contain;
+    text-align: left;
+    margin-right: 6px;
+}
+.TrendingProducts__item-image img {
+    width: 100%;
+}
+.user-profail .TrendingProducts-item h3 {
+    line-height: normal;
+    text-align: center;
+    color: #9e2420;
+    font-size: 16px;
+    font-weight: 900;
+}
+.user-profail .TrendingProducts-item p {
+    text-align: center;
+    color: #808285;
+    font-size: 12px;
+    font-weight: normal;
+    margin-bottom: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*  */
+.other-setting-holder h2 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+}
+ul.other-setting li {
+    list-style: none;
+    text-align: left;
+    margin-bottom: 16px;
+}
+ul.other-setting {
+    padding-left: 0;
+}
+ul.other-setting li a {
+    text-decoration: underline;
+    color: #2466fc;
+    font-weight: bold;
+
+}

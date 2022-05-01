@@ -1,0 +1,72 @@
+.producat-item-image {
+    float: left;
+    margin-right: 8px;
+}
+.producat-price h2 {
+    font-size: 13px;
+    font-weight: 900;
+    text-align: left;
+    margin-top: 0;
+    margin-top: 17px;
+    margin-bottom: 11px;
+    line-height: 13px;
+    margin-bottom: 3px;
+    color: #434343;
+}
+.producat-iteam-cart {
+    overflow: hidden;
+}
+
+
+.producat-price {
+    display: table;
+}
+.producat-price button.ant-btn.submit.ant-btn-signin {
+    width: 74px;
+    color: #fff;
+    height: 20px;
+    border: 1px solid #9e2420;
+    font-size: 12px;
+    font-weight: 900;
+    padding: 0;
+    background: #9e2420;
+    margin-top: 0;
+    margin-bottom: 0;
+    float: left;
+}
+.producat-price h3 .ant-rate {
+    font-size: 13px;
+}
+.producat-price h3 span {
+    font-size: 12px;
+    font-weight: 900;
+}
+.producat-price h3 {
+    margin-bottom: 0;
+}
+button.ant-btn.price-submit.ant-btn-signin {
+    width: 41px;
+    height: 20px;
+    padding: 0;
+    font-size: 12px;
+    font-weight: 900;
+}
+.producat-item-image img {
+    width: 109px;
+    height: 141px;
+    border-right: 1px solid #c1c1c19c;
+}
+.producat-price p {
+    float: left;
+}
+.ProductsItem {
+    border: 1px solid #c1c1c166;
+    padding-bottom: 0;
+    border-radius: 6px;
+   margin-bottom: 6px;
+}
+p.productitem-shoptext {
+    font-size: 12px;
+    font-weight: 900;
+}
+

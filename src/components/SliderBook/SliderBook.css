@@ -1,0 +1,133 @@
+
+.sliderbook img {
+    max-width: 100%;
+}
+.sliderbook img {
+    max-width: 100%;
+    padding: 0px 8px;
+    border-radius: 3px;
+    height: 235px;
+    object-fit: cover;
+    transition: transform 1.3s;
+
+}
+
+.sliderbook img:hover{
+-webkit-transform:rotateY(-180deg);
+-moz-transform:rotateY(-180deg);
+transform:rotateY(-180deg);
+
+}
+.sliderbook-header {
+    margin-bottom: 20px;
+}
+.sliderbook-header h2 {
+    font-size: 18px;
+    font-weight: 900;
+    color: rgba(158, 36, 32, 0.8);
+    margin: 0;
+    display: inline-block;
+    float: left;
+    text-transform: uppercase;
+
+}
+.sliderbook-header p {
+    float: right;
+    color: #9e2420;
+    font-size: 12px;
+    font-weight: 900;
+    text-transform: uppercase;
+
+
+}
+.sliderbook .ant-divider.ant-divider-horizontal {
+    margin-bottom: 1px;
+}
+
+
+.sliderbook-background{
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 30px;
+
+    background: #f89b22;
+    -webkit-clip-path: polygon(100% 0, 100% 8%, 100% 71%, 86% 85%, 71% 100%, 34% 100%, 0 100%, 0% 43%, 0 0);
+    clip-path: polygon(100% 0, 100% 10%, 110% 70%, 100% 70%, 54% 100%, 44% 100%, 0 100%, 0% 46%, 0 0);
+
+    
+}
+
+
+.sliderbook .ant-btn-primary {
+    background: #f89b20;
+    width: 48px;
+    height: 20px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 900;
+    font-style: normal;
+    padding: 0;
+    border: 0;
+    margin-left: 5px;
+}
+
+
+
+
+.sliderbook .slick-dots li.slick-active button:before {
+    border-radius: 6px;
+    border-radius: 6px !important;
+    color: transparent;
+    width: 26px !important;
+    height: 12px !important;
+   
+    background: #f89b20;
+    margin-top: 3px;
+}
+
+
+
+.sliderbook .slick-dots li button:before {
+    font-size: 16px;
+    line-height: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20px;
+    height: 20px;
+    content: '•';
+    text-align: center;
+    opacity: 1;
+    color: #edebeb;;
+}
+
+.sliderbook-background .sliderbook-header h2  ,
+.sliderbook-background .sliderbook-header p{
+    color: white;
+}
+
+.sliderbook-background button.ant-btn.ant-btn-primary {
+    background: #f8f8f8 !important;
+    color: #f89b20;
+}
+
+
+.sliderbook-background  .slick-dots {
+bottom: -13px;
+}
+
+.sliderbook-background .slick-dots li.slick-active button:before {
+  
+    background: #ffffff;
+    opacity: 1 !important;
+    
+    color: transparent !important;
+
+}
+
+.sliderbook-background .sliderbook .slick-dots li button:before{
+    color: #ffff;
+    opacity: 0.8;
+
+
+}

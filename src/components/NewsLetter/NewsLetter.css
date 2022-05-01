@@ -1,0 +1,67 @@
+.ourteam {
+    padding: 0;
+    clear: both;
+
+}
+.ourteam-submit h2 {
+    font-size: 18px;
+    font-weight: 900;
+    color: #9e2420;
+    margin-bottom: 36px;
+    text-transform: uppercase;
+}
+.ourteam-submit button.ant-btn.ant-btn-signin {
+    width: 162px;
+    background: #f89b20;
+    color: white;
+    font-size: 14px;
+    font-weight: 900;
+    padding: 6px 19px 6px;
+    height: 42px;
+    border:0;
+}
+p.Register a {
+    color: #095df8;
+    text-decoration: underline;
+}
+.ourteam-submit p {
+    font-size: 12px;
+    font-weight: normal;
+    margin-top: 17px;
+    color: #808285;
+}
+p.Register {
+    font-size: 12px;
+    font-weight: normal;
+    margin-top: 7px;
+    margin-bottom: 44px;
+}
+.ourteam-submit h3 {
+    font-size: 18px;
+    font-weight: 900;
+    color: #9e2420;
+    text-transform: uppercase;
+    margin-bottom: 27px;
+    margin-top: 0;
+}
+input.ant-input.inpt-email {
+   width: 43%;
+
+    margin-right: 2px;
+    margin-bottom: 32px;
+    height: 42px;
+}
+button.ant-btn.ant-btn-Subscribe {
+    height: 42px;
+    background: #f89b20;
+    color: white;
+    font-size: 14px;
+    border: 1px solid #f89b20;
+
+    font-weight: 900;
+    padding: 6px 19px 6px;
+}
+a.download img {
+    margin-top: 30px;
+    margin-bottom: 37px;
+}

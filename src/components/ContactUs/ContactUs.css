@@ -1,0 +1,218 @@
+.contactus-issue button.ant-btn.ant-btn-primary {
+    width: 100%;
+    height: 42px;
+    color: rgba(0, 0, 0, 0.6);
+    background: white;
+    border: 1px solid #b7b7b7c9;
+}
+button.ant-btn.ant-btn-primary:hover {
+    background: #9e2420;
+}
+.contactus-issue h2 {
+    text-align: left;
+    font-size: 18px;
+    font-weight: 900;
+    color: rgba(0, 0, 0, 0.6);
+    margin-top: 36px;
+    margin-bottom: 25px;
+    text-transform: uppercase;
+}
+h2.contactus-header {
+    text-align: left;
+    color: #303030;
+    font-size: 18px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-bottom: 23px;
+    margin-top: 18px;
+}
+.contact-order h2 {
+    background: #ebebeb;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 18px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-top: 0;
+    border-radius: 4px;
+    color: rgba(0, 0, 0, 0.71);
+}
+.contact-order p {
+    font-size: 16px;
+    font-weight: 500;
+    color: #303030;
+    margin-top: 38px;
+    margin-bottom: 26px;
+    font-style: italic;
+}
+.contact-order button.ant-btn.ant-dropdown-trigger {
+    width: 480px;
+    font-weight: normal;
+    height: 42px;
+    text-align: left;
+    font-size: 14px;
+}
+
+.contact-order i.anticon.anticon-down {
+    float: right;
+    margin-top: 2px;
+}
+.contact-order button.ant-btn.ant-btn-primary:hover{
+    background: white;
+    color: #f89c1a;
+}
+.contact-order h3 {
+    font-size: 20px;
+    color: #303030;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.contact-order input.ant-input {
+    width: 480px;
+    height: 42px;
+}
+.contact-order {
+    border: 1px solid #b7b7b7;
+    border-radius: 4px;
+    margin-bottom: 37px;
+    margin-top: 18px;
+    padding-bottom: 34px;
+}
+.contactus-message-input h2 {
+    text-align: left;
+    margin-bottom: 34px;
+    font-size: 18px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+.contactus-message-input input.ant-input {
+    width: 474px;
+    height: 42px;
+        margin-bottom: 9px;
+}
+.contactus-message-input textarea.ant-input {
+    width: 474px;
+    height: 202px;
+    padding: 20px 14px;
+
+}
+.contactus-location ul li:first-child {
+        border-left: 10px solid #f89b20;
+
+}
+.contactus-location ul  {
+    list-style: none;
+    padding: 0;
+}
+.contactus-message-input {
+    text-align: left;
+}
+.contactus-message-input button.ant-btn.ant-btn-primary {
+    margin-top: 15px;
+    width: 112px;
+    text-transform: uppercase;
+    font-weight: 900;
+    height: 42px;
+}
+.contactus-faq button.ant-btn.ant-btn-primary {
+    width: 252px;
+    height: 42px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+.contactus-faq button.ant-btn.ant-btn-primary:hover{
+    background: white;
+    color: #f89c1a;
+}
+ul.contactus-quick {
+    list-style: none;
+    padding-left: 0;
+    color: #158dfd;
+    text-decoration: underline;
+}
+.contactus-faq h3 {
+    margin-top: 52px;
+    font-size: 18px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+.contactus-faq h2 {
+    font-size: 18px;
+    font-weight: 900;
+    color: #303030;
+}
+.contactus-faq p {
+    font-size: 14px;
+    font-weight: 500;
+    color: rgba(48, 48, 48, 0.5);
+}
+ul.contactus-quick li {
+    margin-bottom: 18px;
+}
+.contactus-faq-holder {
+    position: relative;
+}
+.contactus-faq:before {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 2px;
+    content: '';
+    background: #e8e4e4;
+}
+.contactus-faq {
+    margin-left: 80px;
+    text-align: left;
+}
+.contactus-message {
+    background: #f9f6f6;
+    padding-top: 40px;
+    padding-left: 64px;
+    padding-right: 83px;
+    margin-bottom: 36px;
+}
+
+.ContactUs .breadcrumbing {
+    margin: 19px 0;
+}
+
+
+
+.ContactUs .ant-divider-horizontal{
+    margin: 6px 0;
+}
+
+
+.contactus-issue button.ant-btn.activeone.ant-btn-primary {
+    border: 0;
+    background: #9e2420;
+    color: #fff;
+    font-weight: bold;
+}
+
+
+.contactus-issue button.ant-btn.ant-btn-primary:hover {
+    background: #9e2420;
+    color: #fff;
+    transition: 0.3s;
+    font-weight: bold;
+}
+
+
+.contactus-issue button.ant-btn.ant-btn-primary:focus {
+    background: #9e2420;
+    color: #fff;
+    transition: 0.3s;
+
+    font-weight: bold;
+}
+
+
+
+.contact-order button.ant-btn.ant-btn-primary {
+    height: 42px;
+    font-weight: 900;
+    letter-spacing: 0.7px;
+}
+

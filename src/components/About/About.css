@@ -1,0 +1,271 @@
+
+/* Start page terms and policy */
+
+
+.terms__ads {
+	padding-bottom: 50px;
+}
+
+.breadcrumb.holder {
+	margin-top: 34px;
+}
+
+.terms__holder h3 {
+	font-family: Lato-Black;
+	font-size: 30px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: left;
+}
+
+
+/* Table Base */
+
+.About table {
+	font-family: arial;
+	max-width: 100%;
+	background-color: transparent;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.About .table {
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.table th,
+.table td {
+	color: rgba(128, 128, 128, 255);
+	text-align: center;
+}
+
+.table>thead>tr>th {
+	vertical-align: bottom;
+	border-bottom: 2px solid #ddd;
+	text-transform: uppercase;
+}
+
+.About .table thead th {
+	vertical-align: bottom;
+}
+
+.About .table tbody>tr:nth-child(even)>td,
+.About .table tbody>tr:nth-child(even)>th {
+	background-color: #f9f9f9;
+}
+
+.About .table .t-small {
+    width: 80%;
+    border-left: 0;
+    border-right:  0;
+
+}
+
+.About th.t-small {
+	font-size: 12px;
+	color: #808080;
+	text-align: left;
+	text-transform: uppercase;
+}
+
+.About.table .t-medium {
+	width: 10%;
+	font-size: 12px;
+}
+
+.About.table .t-status {
+	font-weight: bold;
+}
+
+.About td.popular-item {
+    font-size: 15px;
+	color: rgba(128, 128, 128, 255);
+	text-align: left;
+	/* text-transform: capitalize; */
+	padding: 14px 9px !important;
+}
+
+
+/* Small Sizes */
+
+@media (max-width: 480px) {
+	.About.table-action thead {
+		display: none;
+	}
+	.About.table-action tr {
+		border-bottom: 1px solid #dddddd;
+	}
+	.About.table-action td {
+		border: 0;
+	}
+	.About.table-action td:not(:first-child) {
+		display: block;
+	}
+	.About.table>tbody>tr>td,
+	.About.table>tbody>tr>th,
+	.About.table>tfoot>tr>td,
+	.About.table>tfoot>tr>th,
+	.About.table>thead>tr>td,
+	.About.table>thead>tr>th {
+		padding: 8px;
+		line-height: 1.42857143;
+		vertical-align: top;
+		border-top: 1px solid #ddd;
+		display: block;
+		text-align: center;
+	}
+}
+
+.table-action__title {
+	margin-bottom: 30px;
+}
+
+.terms__content-condittion h3 {
+    font-size: 20px;
+    color: rgba(48, 48, 48, 255);
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.terms__content-condittion p {
+	font-size: 16px;
+	color: rgba(128, 128, 128, 255);
+	text-align: center;
+	line-height: 24px;
+}
+
+.terms__list-number h3,
+.terms__list-markered h3 {
+	font-size: 22px;
+	color: rgba(48, 48, 48, 255);
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+.terms__list-number li,
+.terms__list-markered li {
+	font-size: 16px;
+	color: rgba(128, 128, 128, 255);
+	line-height: 25px;
+}
+
+.terms__list-markered li{
+	margin-left: 7px;
+}
+
+.terms__list-number ol li span{
+    margin-left: 7px;
+
+}
+.terms__content tr th.t-small{
+	font-size: 16px !important;
+}
+.terms__list-markered ul {
+	list-style: none;
+	padding-left: 31px;
+	padding-top: 25px;
+}
+
+.terms__content table.table.table-bordered .table th, .table td{
+    color: #808080  !important;
+    font-size: 16px;
+}
+
+.terms__content .table th, .table td{
+    text-align: left;
+
+}
+
+.terms__content em.terms-quote__second-custome {
+    color: #00a8ff;
+	font-style: normal;
+}
+.terms__list-number ol {
+	padding-left: 31px;
+    padding-top: 25px;
+    list-style: none;
+
+}
+
+
+
+.terms__list-number ol li span {
+	/* color: gainsboro; */
+	color: rgba(128, 128, 128, 255);
+	margin-left: 4px;
+}
+
+.terms__list-number ol li {
+	color: #dda1b8;
+}
+
+.terms-quote h3 {
+	font-size: 20px;
+	margin-bottom: 26px;
+    margin-top: 50px;
+    font-weight: bold;
+
+}
+
+.terms-quote p {
+	margin-bottom: 39px;
+	font-size: 16px;
+	color: rgba(128, 128, 128, 255);
+}
+
+em.terms__special-text {
+	color: #118cff;
+	font-style: normal;
+	font-size: 16px;
+	/* font-weight: bold; */
+}
+
+.terms-quote h4 {
+    /* font-family: Lato-Regular; */
+    font-size: 16px;
+    color: #303030;
+    text-align: left;
+    width: 75%;
+    line-height: 30px;
+    margin-left: 50px;
+    margin-bottom: 33px;
+    border-left: 2px solid #d7d7d7;
+    padding-left: 19px;
+}
+
+
+p.terms-quote__second {
+	font-size: 16px;
+	text-align: center;
+	line-height: 22px;
+	margin-bottom: 83px;
+}
+
+.terms__ads img {
+	width: 100%;
+}
+
+
+/* End page terms  */
+
+
+.table-action__title h3 {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 40px;
+
+}
+
+.terms__content {
+    border: 1px solid #e1e1e1;
+    padding: 30px;
+    margin-top: 26px;
+    border-radius: 6px;
+}
+
+.terms__ads {
+    padding: 13px;
+    margin-top: 5px;
+}

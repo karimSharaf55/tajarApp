@@ -1,0 +1,53 @@
+.Shop-navbar.MainNavbar {
+    margin-top: 10px;
+    background: #9e2420;
+    padding: 1px 0;
+    margin-bottom: 20px;
+}
+
+.Shop-navbar.MainNavbar {
+    display: block;
+}
+.Shop-navbar.MainNavbar  ul{
+    background: transparent;
+    border:0 !important;
+   
+}
+.Shop-navbar.MainNavbar a {
+    text-transform: capitalize;
+    color: #fff;
+    font-weight: normal;
+    font-size: 14px;
+    opacity: 1 !important;
+}
+
+a.Shopnav-active {
+    font-size: 15px !important;
+    font-weight: bold !important;
+    opacity: 1 !important;
+}
+
+
+
+
+.Shop-navbar a.ant-dropdown-link.ant-dropdown-trigger {
+ 
+    color: white !important;
+    font-weight: normal !important;
+    margin-right: 0 !important;
+
+}
+
+
+
+.Shop-navbar li.ant-menu-item.ant-menu-item-selected {
+    padding: 0 14px !important;
+}
+
+.Shop-navbar .MainNavbar .ant-menu-horizontal > .ant-menu-item > a:hover , .Shop-navbar .MainNavbar li.ant-menu-item a:hover {
+    color: red !important;
+}
+
+.Shop-navbar .ant-menu-item, .ant-menu-submenu-title{
+padding: 0 14px !important;
+}

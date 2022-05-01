@@ -1,0 +1,79 @@
+h3.singleshopsellers-ttile {
+    font-size: 18px;
+    font-weight: 900;
+    color: rgba(0, 0, 0, 0.8);
+    text-transform: uppercase;
+    opacity: 0.8;
+    margin-top: 29px;
+    margin-bottom: 14px;
+}
+
+
+
+.singleshop-seller-secondry {
+    padding: 11px 16px;
+    padding-bottom: 43px;
+    border-radius: 5px;
+    background: transparent;
+    padding: 10px 11px;
+    padding: 11px 17px;
+    padding-bottom: 26px;
+    border: solid 1px #bcbdc1;
+}
+.singleshop-seller-secondry h3 {
+    color: rgba(0, 0, 0, 0.8);
+    display: inline-block;
+}
+
+.singleshop-seller-secondry p {
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 18px;
+    margin: 0;
+}
+
+
+.singleshop-seller__info .dv-star-rating.dv-star-rating-non-editable {
+    float: left;
+    margin-right: 10px;
+}
+
+.singleshop-seller__info span.singleshop-seller__info {
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 14px;
+    opacity: 0.8;
+}
+
+.singleshop-seller__info label.dv-star-rating-star.dv-star-rating-full-star {
+    color: #ffdf00 !important;
+    width: 16px !important;
+    /* height: 10px !important; */
+    margin-bottom: 0 !important;
+}
+label.dv-star-rating-star.dv-star-rating-full-star{
+    color: #ffdf00 !important;
+
+}
+.singleshop__review-users-right{
+    color: #ffdf00 !important;
+
+}
+ label.dv-star-rating-star.dv-star-rating-empty-star {
+    color: #ebebeb;
+    opacity: 0.1 !important;
+}
+
+.singleshop-seller-secondry-price p {
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.8);
+    opacity: 0.8;
+    margin-bottom: 6px;
+    margin: 0;
+
+}
+
+.singleshop-seller-secondry h3 {
+    margin-bottom: 2px !important;
+    margin-top: 15px;
+
+}
+

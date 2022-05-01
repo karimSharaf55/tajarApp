@@ -1,0 +1,16 @@
+    
+.Copyright-text {
+    background: #540605;
+    color: white;
+    padding: 2px;
+}
+.Copyright-text span {
+    color: #f89b20;
+}
+.Copyright-text h3 {
+    font-size: 12px;
+    font-weight: 300;
+    color: #ffffff;
+    margin-top: 26px;
+    margin-bottom: 25px;
+}

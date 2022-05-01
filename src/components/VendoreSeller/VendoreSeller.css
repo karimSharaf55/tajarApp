@@ -1,0 +1,125 @@
+.vendors .singleshop-seller-image {
+    float: left;
+    width: 113px;
+    height: 137px;
+    background-color: #f7f7f7;
+
+}
+
+.vendors .singleshop-seller-secondry {
+    padding: 11px 16px;
+    padding-bottom: 43px;
+    border-radius: 5px;
+    background: transparent;
+    padding: 10px 11px;
+    padding: 0;
+    padding-bottom: 26px;
+    border: solid 1px #bcbdc1;
+    height: 137px;
+    overflow: hidden;
+}
+
+p.vendors.singleshop-seller-secondry-description {
+    font-size: 12px;
+    text-align: center;
+    color: #666666;
+}
+
+.vendors.singleshop-seller__info h3 a{
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 35px;
+    margin-bottom: 10px !important;
+    text-align: center;
+}
+
+
+span.vendors.singleshop-content-rating {
+    font-size: 12px;
+    font-weight: 500;
+    color: #000000;
+    float: right;
+    text-align: left;
+    margin-right: 15px;
+    margin-top: 6px;
+}
+.vendors .singleshop-seller-image{
+border:none;
+display: flex; 
+margin: 0 auto;
+text-align: center; 
+display: flex; 
+align-items: center; 
+justify-content: center; 
+flex-direction: column;
+
+}
+
+.vendors .singleshop-seller-image img{
+    margin: 0 auto;
+    border:0;
+
+
+}
+
+.vendors .singleshop-seller-secondry h3{
+    display: inherit;
+    text-align: center;
+
+}
+
+.vendors .singleshop-seller-secondry h3 a {
+    display: inherit;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    color: #434343;
+}
+.vendors .singleshop-seller__info .dv-star-rating.dv-star-rating-non-editable {
+    float: left;
+    margin-right: 0;
+    /* margin: 0 auto; */
+    text-align: center !important;
+    margin-left: 8px;
+    margin-top: 5px;
+}
+
+
+
+
+.vendors-sort h3 {
+    display: inline-block;
+    opacity: 0.8;
+    font-family: Lato;
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.8);
+    margin-left: 6px;
+    margin-right: 10px;
+    font-weight: bold;
+    margin-top:     0;
+
+}
+
+.vendors-sort span {
+    float: left;
+}
+
+.vendors-sort  a.ant-dropdown-link.ant-dropdown-trigger {
+    border-radius: 5px;
+    border: solid 1px #cccccc;
+    padding: 10px;
+    color: red;
+
+    text-align: left;
+    color: rgba(137, 141, 144, 0.3);
+    border-radius: 5px;
+}
+
+
+
+span.vendors-sort_name {
+    margin-top: -11px;
+    width: 170px;
+
+}
+

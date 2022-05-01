@@ -1,0 +1,102 @@
+span.vendors-sort_name input.ant-input {
+    padding: 19px;
+    border: 0;
+}
+
+.vendors-sort {
+    margin: 32px 0;
+}
+
+
+span.vendors-sort_name {
+    margin-top: -9px;
+    border-radius: 5px;
+    border: solid 1px #cccccc !important;
+    border: 0;
+}
+
+
+.vendors-holder__title h3 {
+    font-size: 24px;
+    font-weight: 900;
+    color: #9e2420;
+    text-transform: uppercase;
+    margin-top: 39px;
+    margin-bottom: 48px;
+}
+.vendors-holder__title h4{
+        font-size: 16px;
+        font-weight: 900;
+        color: #9e2420;
+        text-transform: uppercase;
+        text-align:left;
+}
+
+.vendors-holder__title .ant-divider.ant-divider-horizontal {
+    margin: 15px 0;
+    /* margin-bottom: 15px; */
+}
+
+.vendor-search button.ant-btn.ant-btn-primary {
+    font-size: 14px;
+    font-weight: 900;
+    font-style: normal;
+    height: 37px;
+    text-transform: uppercase;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+span.vendor-search {
+    margin: -10px 17px;
+}
+
+
+ .no-padding{
+padding: 0 !important;
+}
+
+.vendors li.dot.selected {
+    background: #f89b20 !important;
+    border-radius: 6px;
+    width: 26px !important;
+    height: 12px !important;
+    border-radius: 6px !important;
+    padding: 0 !important;
+    margin: 0px 10px;
+}
+
+.vendors .carousel .control-dots .dot {
+    width: 12px;
+    height: 12px;
+    opacity: 1;
+}
+
+.vendors .slider-wrapper.axis-horizontal {
+    height: 266px;
+    object-fit: cover;
+}
+
+.vendors-ads img {
+    width: 100%;
+    margin: 14px 0;
+}
+
+.vendor-other .vendors.singleshop-seller-secondry {
+    margin-bottom: 15px;
+}
+
+.vendors .singleshop-seller-image img {
+ background: transparent;   
+}
+
+.vendors-sort i {
+    color: #222222;
+}
+
+
+
+
+.vendors .Shop-navbar.MainNavbar {
+    margin-bottom: 0;
+}

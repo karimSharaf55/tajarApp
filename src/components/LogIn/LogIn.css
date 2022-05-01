@@ -1,0 +1,233 @@
+.social ul li {
+    list-style: none;
+    display: inline;
+    margin-right: 10px;
+
+    font-size: 14px;
+    margin-bottom: 33px;
+}
+.creat-account h2 {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+    color: #000000;
+    margin-bottom: 35px;
+}
+label.ant-checkbox-wrapper {
+    float: left;
+    font-size: 12px;
+    font-weight: 700;
+    color: rgba(0, 0, 0, 0.7);
+}
+.creat-account span a {
+    text-decoration: underline;
+    float: right;
+    color: rgb(20, 119, 254);
+    font-size: 12px;
+    opacity: 0.7;
+    font-family: Lato;
+    font-size: 12px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+.Login-page button.ant-btn.submit.ant-btn-signin {
+    border-radius: 3px;
+    color: #fff;
+    width: 476px;
+    height: 42px;
+    margin-top: 28px;
+    margin-bottom: 85px;
+    border: 1px solid #f89b20;
+    font-size: 16px;
+    font-weight: 900;
+    background: #f89b20;
+}
+button.ant-btn.submit-account.ant-btn-signin {
+    width: 476px;
+    height: 42px;
+    margin-top: 23px;
+    color: #fff;
+
+    font-weight: bold;
+
+    margin-bottom: 38px;
+    background: #9e2420;
+    border: 1px solid #9e2420;
+    font-size: 16px;
+}
+input.ant-input.input-email {
+    margin-bottom: 18px;
+    height: 42px;
+    outline: none;
+    box-shadow: none;
+}
+span.ant-input-password.inpt-pass.ant-input-affix-wrapper {
+    border-left: 1px solid #d9d9d9;
+    outline: none;
+    box-shadow: none;
+    margin-bottom: 15px;
+}
+.ant-input-affix-wrapper:hover .ant-input:not(.ant-input-disabled) {
+    border-color: #d9d9d9;
+    border-right-width: 1px !important;
+}
+.ant-input:hover {
+    border-color: #d9d9d9;
+    border-right-width: 1px !important;
+}
+.ant-input:focus {
+    border-color: #d9d9d9;
+    border-right-width: 1px !important;
+    outline: 0;  
+      box-shadow: none;
+}
+ul.setting li  {
+    list-style: none;
+    display: inline-block;
+    margin-right: 32px;
+    font-size: 12px;
+    font-weight: 900;
+    margin-top: 38px;
+    margin-bottom: 28px;
+ 
+}
+ul.setting li a {
+    color: rgba(0, 0, 0, 0.8);
+    text-decoration: none;
+    font-weight: bold;
+
+
+}
+.creat-account {
+    background: #fff;
+    padding:75px 88px;
+    border: 1px solid #e4dfdf;
+}
+
+.creat-account input.ant-input {
+    border-radius: 5px;
+}
+.creat-account p {
+    font-size: 18px;
+    font-weight: bold;
+    color: #000000;
+    margin-bottom: 12px;
+    text-align: left;
+}
+
+.social i.fa.fa-facebook-f,i.fa.fa-twitter,i.fa.fa-google-plus {
+    background: #23211c40;
+    border-radius: 17px;
+    width: 29px;
+    height: 29px;
+    font-size: 13px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 31px;
+    font-size: 15px;
+    color: white;
+    -webkit-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+}
+
+.social i.fa.fa-facebook-f:hover{
+    background: #2c5aa3;
+}
+.social i.fa.fa-twitter:hover{
+    background: #16b2e0ad;
+}
+i.fa.fa-google-plus:hover {
+    background: #ff0000bf;
+}
+
+
+.sign-in {
+    text-align: left;
+    background: #f9f9f9;
+    border: 1px solid #e4dfdf;
+}
+.sign-in h2 {
+    color: #f89b20;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-size: 24px;
+    margin-top: 86px;
+    margin-bottom: 31px;
+}
+.sign-in p {
+    font-size: 12px;
+    font-weight: normal;
+    color:rgba(0, 0, 0, 0.3);
+
+    margin-bottom: 21px;
+}
+span.ant-divider-inner-text {
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.5) !important;
+}
+p.account {
+    margin-top: 15px;
+}
+.social ul {
+    padding-left: 0;
+}
+
+
+h2.header-second.gray-color {
+    color: #9f9f9f;
+    font-size: 24px;
+    font-weight: 900;
+    margin-top: 51px;
+}
+
+
+.social.first {
+    margin-bottom: 33px;
+}
+
+
+.LogIn .footer {
+    display: none;
+}
+.LogIn .ourteam {
+    display: none;
+}
+
+
+span.ant-input-password.inpt-pass.ant-input-affix-wrapper  , .creat-account input.ant-input{
+    width: 476px;
+}
+
+
+
+.Copyright-text {
+    text-align: center;
+}
+
+.LogIn-text {
+    background: #fafafa;
+}
+
+
+.navbarwithlogo.clearfix img {
+    margin: -4px;
+    width: 84px;
+    float: inherit !important;
+    margin: 0 auto;
+    display: block;
+}
+
+
+.sign-in.sign-page{
+    /* padding: 20px 0; */
+    padding: 0 47px 95px;
+}
+
+ul.setting {
+    text-align: center;
+}
+
+span.login-forgot__password a {
+    padding-right: 62px;
+}

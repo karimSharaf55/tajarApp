@@ -1,0 +1,86 @@
+
+@font-face {
+    font-family: 'HelveticaNeueBold';
+    src: url('../../fonts/HelveticaNeueBold.ttf'); 
+  }
+span.product-timerlabel {
+    position: absolute;
+    top: 12px;
+    left: 0;
+    font-size: 12px;
+    font-weight: 900;
+    text-transform: capitalize;
+    /* font-family: lato; */
+    color: #9e2420;
+}
+
+span.product-timerlabel span p {
+    /* margin-left: 5px; */
+    margin-right: 8px;
+    font-size: 9px;
+    font-weight: normal;
+}
+
+span.product-timerlabel span {
+    float: left;
+    margin-left: 0;
+    /* text-align: left; */
+}
+
+
+
+
+.root-react-component-countdown-timer .countBox.left {
+    display: inline-flex;
+    direction: rtl;
+    font-size: 18px;
+
+}
+.root-react-component-countdown-timer .countBox .countBoxItem {
+    flex: 1;
+}
+
+.root-react-component-countdown-timer .countBoxItem {
+    min-width: 28px;
+}
+.root-react-component-countdown-timer .countBox span.split {
+    display: flex;
+    margin-bottom: 27px;
+
+    flex-direction: column-reverse;
+}
+.root-react-component-countdown-timer .countBox .label {
+    text-align: center;
+    font-weight: normal;
+
+    font-size: 11px !important;
+    color: #9e2420 !important;
+    padding: 0 !important;
+    position: relative;
+    bottom: -18px;
+
+}
+
+.count {
+    color: #9e2420 !important;
+    background-color: transparent;
+    font-size: 19px;
+    position: relative;
+    top: -21px;
+    /* font-weight: normal; */
+    font-family: 'HelveticaNeueBold';
+    font-weight: bold;
+}
+
+
+    /* .product-wrap .product-img .hover-img {
+      position: absolute;
+      left: 0;
+      top: 0;
+      z-index: 2;
+      -webkit-transition: opacity 0.5s ease, -webkit-transform 2s cubic-bezier(0, 0, 0.44, 1.18);
+      transition: opacity 0.5s ease, -webkit-transform 2s cubic-bezier(0, 0, 0.44, 1.18);
+      -o-transition: opacity 0.5s ease, transform 2s cubic-bezier(0, 0, 0.44, 1.18);
+      transition: opacity 0.5s ease, transform 2s cubic-bezier(0, 0, 0.44, 1.18);
+      transition: opacity 0.5s ease, transform 2s cubic-bezier(0, 0, 0.44, 1.18), -webkit-transform 2s cubic-bezier(0, 0, 0.44, 1.18);
+      opacity: 0; } */
